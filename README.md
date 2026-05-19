@@ -63,6 +63,6 @@ Le dataset `"Data AI4CKD.xls"` est strictement confidentiel.
 Ne pas partager, publier ou redistribuer les données sans autorisation.
 
 ## 📜 License & Copyright
-© 2025 - **[Groupe_11]**
+© 2025 - **[DOSSA Maurel]**
 Tous droits réservés.
 Ce projet est sous licence propriétaire.
